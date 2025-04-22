@@ -1,2 +1,2 @@
 # Demo-1
-Getting started
+Setting up git and github
